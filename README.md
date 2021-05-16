@@ -3,7 +3,7 @@
 ##Project Goal:
 
 #Show Connections with Division Champs and League(American Or National League) with Average Player and Runs Scored Through KNN and Decision Tree Classification
-Algorithms
+Algorithms. show which playoff team had the best offensive output for the budget
 
 #Showed Linear Regression Models to try and show a linear relationship between Playoffs and Wins, Runs Scored, and average player salary in the FIRST MODEL
 #SECOND model find a linear relationship betweene playoffs and av. player salary and runs scored
